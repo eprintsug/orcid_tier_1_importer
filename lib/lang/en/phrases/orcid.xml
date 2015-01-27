@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE phrases SYSTEM "entities.dtd">
+<epp:phrases xmlns="http://www.w3.org/1999/xhtml" xmlns:epp="http://eprints.org/ep3/phrase" xmlns:epc="http://eprints.org/ep3/control">
+
+<epp:phrase id="user_section_orcid">ORCID</epp:phrase>
+
+
+<epp:phrase id="user_fieldname_orcid">ORCID</epp:phrase>
+<epp:phrase id="user_fieldhelp_orcid">The ORCID for the user</epp:phrase>
+
+<!-- ORCiD Management -->
+<epp:phrase id="Plugin/Screen/Admin/Orcid/OrcidManager:title">ORCID</epp:phrase>
+<epp:phrase id="Plugin/Screen/Admin/Orcid/OrcidManager:description">ORCID management utility</epp:phrase>
+<epp:phrase id="Plugin/Screen/Admin/Orcid/OrcidManager:prompt">ORCID:</epp:phrase>
+<epp:phrase id="Plugin/Screen/Admin/Orcid/OrcidManager:no_orcid">Please enter an ORCID Identifier and select Search</epp:phrase>
+
+<epp:phrase id="Plugin/Screen/Admin/Orcid/OrcidManager:error_301">Account Deprecated: This ORCID iD has been merged with another</epp:phrase>
+<epp:phrase id="Plugin/Screen/Admin/Orcid/OrcidManager:error_400">An error has occured with the request. Please contact the administrator if the problem persists</epp:phrase>
+<epp:phrase id="Plugin/Screen/Admin/Orcid/OrcidManager:error_401">An error has occured with the request. Please contact the administrator if the problem persists</epp:phrase>
+<epp:phrase id="Plugin/Screen/Admin/Orcid/OrcidManager:error_403">A Security related error has occured with the request. Please contact the administrator if the problem persists</epp:phrase>
+<epp:phrase id="Plugin/Screen/Admin/Orcid/OrcidManager:error_404">ORCID not found. Check that the ORCID iD is correct and is claimed. Records that were created in the last 10 days and are not yet claimed will return this error</epp:phrase>
+
+<epp:phrase id="Plugin/Screen/Admin/Orcid/OrcidManager:error_405">An error has occured with the request. Please contact the administrator if the problem persists</epp:phrase>
+<epp:phrase id="Plugin/Screen/Admin/Orcid/OrcidManager:error_406">An error has occured with the request. Please contact the administrator if the problem persists</epp:phrase>
+<epp:phrase id="Plugin/Screen/Admin/Orcid/OrcidManager:error_413">An error has occured with the request. Please contact the administrator if the problem persists</epp:phrase>
+<epp:phrase id="Plugin/Screen/Admin/Orcid/OrcidManager:error_415">An error has occured with the request. Please contact the administrator if the problem persists</epp:phrase>
+<epp:phrase id="Plugin/Screen/Admin/Orcid/OrcidManager:error_500">An error has occured with the request. Please contact the administrator if the problem persists</epp:phrase>
+
+
+</epp:phrases>

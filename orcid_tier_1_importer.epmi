@@ -1,0 +1,131 @@
+<?xml version='1.0' encoding='utf-8'?>
+<epm xmlns='http://eprints.org/ep2/data/2.0' id='http://core.ep.devorkin:8080/id/epm/orcid_tier_1_importer'>
+  <epmid>orcid_tier_1_importer</epmid>
+  <eprintid>354</eprintid>
+  <uri>http://bazaar.eprints.org/id/epm/orcid_tier_1_importer</uri>
+  <documents>
+    <document id='http://core.ep.devorkin:8080/id/document/2080'>
+      <docid>2080</docid>
+      <rev_number>1</rev_number>
+      <files>
+        <file id='http://core.ep.devorkin:8080/id/file/7154'>
+          <fileid>7154</fileid>
+          <datasetid>document</datasetid>
+          <objectid>2080</objectid>
+          <filename>epm/orcid_tier_1_importer/cfg/cfg.d/z_orcid.pl</filename>
+          <mime_type>text/plain</mime_type>
+          <hash>d9c7d5c8395d75fb6ed8d5171644f1fb</hash>
+          <hash_type>MD5</hash_type>
+          <filesize>719</filesize>
+          <mtime>2014-04-15 14:16:14</mtime>
+        </file>
+        <file id='http://core.ep.devorkin:8080/id/file/7155'>
+          <fileid>7155</fileid>
+          <datasetid>document</datasetid>
+          <objectid>2080</objectid>
+          <filename>lang/en/phrases/orcid.xml</filename>
+          <mime_type>application/xml</mime_type>
+          <hash>10208e9dc47ce896a74eeba8b0cf7d27</hash>
+          <hash_type>MD5</hash_type>
+          <filesize>2664</filesize>
+          <mtime>2014-04-15 14:16:14</mtime>
+        </file>
+        <file id='http://core.ep.devorkin:8080/id/file/7156'>
+          <fileid>7156</fileid>
+          <datasetid>document</datasetid>
+          <objectid>2080</objectid>
+          <filename>plugins/EPrints/Plugin/Screen/Admin/Orcid/OrcidManager.pm</filename>
+          <mime_type>text/x-c++</mime_type>
+          <hash>c66d88f94b7ff8d255c8366384214a74</hash>
+          <hash_type>MD5</hash_type>
+          <filesize>12095</filesize>
+          <mtime>2014-04-15 14:16:14</mtime>
+        </file>
+        <file id='http://core.ep.devorkin:8080/id/file/7157'>
+          <fileid>7157</fileid>
+          <datasetid>document</datasetid>
+          <objectid>2080</objectid>
+          <filename>plugins/EPrints/Plugin/Screen/EPMC/OrcidWorksTier1.pm</filename>
+          <mime_type>text/plain</mime_type>
+          <hash>8b9b7051cfb5fe03598fc2969691c366</hash>
+          <hash_type>MD5</hash_type>
+          <filesize>1128</filesize>
+          <mtime>2014-04-15 14:16:14</mtime>
+        </file>
+        <file id='http://core.ep.devorkin:8080/id/file/7158'>
+          <fileid>7158</fileid>
+          <datasetid>document</datasetid>
+          <objectid>2080</objectid>
+          <filename>static/images/epm/orcid_import_1.png</filename>
+          <mime_type>image/png</mime_type>
+          <hash>eaca6d8c00920993c4b14b225f84999c</hash>
+          <hash_type>MD5</hash_type>
+          <filesize>135527</filesize>
+          <mtime>2014-04-15 14:16:14</mtime>
+        </file>
+        <file id='http://core.ep.devorkin:8080/id/file/7159'>
+          <fileid>7159</fileid>
+          <datasetid>document</datasetid>
+          <objectid>2080</objectid>
+          <filename>static/style/auto/orcidmanager.css</filename>
+          <mime_type>text/plain</mime_type>
+          <hash>222dad715b039ec11a61bcfed408352c</hash>
+          <hash_type>MD5</hash_type>
+          <filesize>101</filesize>
+          <mtime>2014-04-15 14:16:14</mtime>
+        </file>
+      </files>
+      <eprintid>354</eprintid>
+      <pos>1</pos>
+      <placement>1</placement>
+      <mime_type>text/plain</mime_type>
+      <format>text</format>
+      <language>en</language>
+      <security>public</security>
+      <main>static/style/auto/orcidmanager.css</main>
+      <content>install</content>
+    </document>
+    <document id='http://core.ep.devorkin:8080/id/document/2081'>
+      <docid>2081</docid>
+      <rev_number>1</rev_number>
+      <files>
+        <file id='http://core.ep.devorkin:8080/id/file/7160'>
+          <fileid>7160</fileid>
+          <datasetid>document</datasetid>
+          <objectid>2081</objectid>
+          <filename>static/images/epm/orcid_import_1.png</filename>
+          <mime_type>image/png</mime_type>
+          <hash>eaca6d8c00920993c4b14b225f84999c</hash>
+          <hash_type>MD5</hash_type>
+          <filesize>135527</filesize>
+          <mtime>2014-04-15 14:16:14</mtime>
+        </file>
+      </files>
+      <eprintid>354</eprintid>
+      <pos>2</pos>
+      <placement>2</placement>
+      <mime_type>image/png</mime_type>
+      <format>image</format>
+      <language>en</language>
+      <security>public</security>
+      <main>static/images/epm/orcid_import_1.png</main>
+      <content>coverimage</content>
+    </document>
+  </documents>
+  <version>1.0.1</version>
+  <controller>EPMC::OrcidWorksTier1</controller>
+  <creators>
+    <item>
+      <name>
+        <family>West</family>
+        <given>P.J.</given>
+      </name>
+      <id>pjw@ecs.soton.ac.uk</id>
+    </item>
+  </creators>
+  <datestamp>2014-04-15 14:16:13</datestamp>
+  <title>Import from ORCID (Tier 1 API)</title>
+  <description>A simple admin plugin that provides the ability to import works for a given ORCID.</description>
+  <home_page>http://wiki.eprints.org/w/ImportFromORCID</home_page>
+  <icon>images/epm/orcid_import_1.png</icon>
+</epm>
